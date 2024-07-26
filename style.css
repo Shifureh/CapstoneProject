@@ -1,0 +1,196 @@
+html {
+  background-color: grey;
+}
+
+div {
+  font-family: "Lucida Sans Bold";
+  color: white;
+  font-size: 20px;
+  padding: 5px;
+}
+
+#Samuel {
+  text-align: center;
+}
+
+button {
+  width: 80px;
+  font-size: 20px;
+}
+
+a {
+  color: white;
+}
+
+.navBar {
+  background-color: black;
+  border-radius: 13px;
+  border: white 2px solid;
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
+  flex-direction: row;
+  padding: 5px;
+  font-family: "Lucida Sans Bold";
+}
+
+.nav:hover {
+  background-color: rgb(12, 73, 93);
+  opacity: 95%;
+}
+
+#box {
+  width: 1390px;
+  height: 410px;
+  background-color: black;
+  border-radius: 30px;
+  border: white 3px solid;
+  display: flex;
+  justify-content: center;
+  font-size: 40px;
+  text-align: center;
+}
+
+.portfolio {
+  font-size: 30px;
+  text-align: center;
+  color: black;
+  font-family: "Lucida Sans Bold";
+}
+
+.credits {
+  width: 100px;
+  height: 100px;
+}
+
+p {
+  text-align: left;
+}
+
+.big_div {
+  display: flex;
+  justify-content: center;
+  background-color: black;
+  border: white dashed 2.5px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  border-radius: 13px;
+  display: inline-flex;
+  flex-direction: column;
+  margin: 20px;
+  width: 1350px;
+}
+
+#letters,
+#letters1,
+#letters2,
+#letters3,
+#letters4 {
+  font-size: 36px;
+  text-align: center;
+}
+
+#box2,
+#box3,
+#box1,
+#box4,
+#box5 {
+  display: flex;
+  flex-wrap: wrap;
+  background-color: black;
+  border: white dashed 2.5px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.who_am_i {
+  font-size: 30px;
+  font-weight: bold;
+  margin: 0;
+  padding: 20px;
+  text-align: center;
+  color: white;
+}
+
+.sub_div_Shees p {
+  text-align: center;
+  color: white;
+  font-size: 25px;
+}
+
+ul {
+  text-align: left;
+}
+
+#ShifatulButton {
+  width: 400px;
+  height: 40px;
+  padding: 7px;
+  border-radius: 20px;
+}
+
+#ShifatulButton:hover {
+  background-color: rgb(199, 193, 163);
+  opacity: 90%;
+}
+
+.clubs_Shees {
+  font-size: 30px;
+  font-weight: bold;
+  margin: 0;
+  padding: 10px;
+  color: white;
+  text-align: center;
+}
+
+#extra_cir {
+  justify-content: center;
+  text-align: center;
+  font-size: 30px;
+}
+
+#portfolio_Shees {
+  font-size: 35px;
+  justify-content: center;
+  text-align: center;
+}
+
+.sub_div_Shees {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#textPrinterShifat {
+  display: none;
+  background-color: antiquewhite;
+  border-radius: 100px;
+  height: 300px;
+}
+
+#rotateText {
+  color: black;
+}
+
+.buttonText {
+  display: flex;
+  justify-content: space-around;
+}
+
+#theButton {
+  width: 120px
+}
+
+#theText {
+  display: flex;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: black;
+  text-align: center;
+}
+
+#creditsBox {
+  width: 60px;
+  height: 24px;
+  background-color: black;
+  border: white dashed 3px;
+}
