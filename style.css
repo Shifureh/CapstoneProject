@@ -40,15 +40,33 @@ a {
 }
 
 #box {
-  width: 1390px;
-  height: 410px;
+  width: 700px;
+  height: 400px;
   background-color: black;
   border-radius: 30px;
   border: white 3px solid;
   display: flex;
   justify-content: center;
-  font-size: 40px;
+  font-size: 30.9px;
   text-align: center;
+  margin: 5px;
+}
+
+img {
+  width: 700px;
+  height: 410px;
+  border: white 3px solid;
+  border-radius: 30px;
+  margin: 5px;
+}
+
+.studentPortfolio {
+  display: flex;
+  font-size: 30px;
+  text-align: center;
+  color: black;
+  font-family: "Lucida Sans Bold";
+  flex-direction: row;
 }
 
 .portfolio {
@@ -178,7 +196,7 @@ ul {
 }
 
 #theButton {
-  width: 120px
+  width: 120px;
 }
 
 #theText {
